@@ -1,0 +1,40 @@
+a{
+
+color: rgb(255, 255, 255);
+border: solid red;
+width: 150px;
+padding: 10px;
+margin: 15px;
+text-decoration: none;
+background-image: url(imagenes/logo\ 2.jpg);
+
+}
+
+h1{
+
+color: rgb(255, 255, 255);
+border:solid red;
+text-align: center;
+background-image: url(imagenes/logo.jpg);
+background-position: center;
+padding: 5px;
+
+}
+
+body{
+
+background-image: url(imagenes/toro.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+padding: 10px;
+
+
+}
+
+p{
+color:  white;
+padding: 10px;
+margin: 2px;
+text-align: center;
+
+}

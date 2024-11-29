@@ -1,0 +1,66 @@
+h1{
+
+    color: rgb(255, 255, 255);
+    border:solid red;
+    text-align: center;
+    background-image: url(imagenes/logo.jpg);
+    background-position: center;
+    padding: 5px;
+}
+
+
+
+body{
+
+    background-image: url(imagenes/toro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+img{
+
+width: 300px;
+height: 300px;
+border: solid white;
+margin: 10px;
+float: left;
+
+}
+
+
+.bloque1{
+
+color: white;
+
+
+
+}
+
+.bloque2{
+
+color: white;
+
+
+
+}
+
+.bloque3{
+
+color: white;
+
+
+}
+
+
+
+a{
+
+    color: aqua;
+    text-decoration: none;
+    border: solid rgb(6, 230, 255);
+    padding: 5px;
+
+
+
+}

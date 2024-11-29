@@ -1,0 +1,88 @@
+h1{
+
+    color: rgb(251, 251, 251);
+    border: solid black;
+    background-color: red;
+    text-align: center;
+    
+    
+    
+    }
+    
+    body{
+    
+        background-image: url(imagenes/toro.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    
+    
+    }
+    
+    label{
+    
+    color: rgb(255, 255, 255);
+    border: solid black;
+    background-color: rgb(0, 0, 0);
+    margin: 20px;
+    
+    
+    
+    }
+    
+    input{
+    
+    color: black;
+    border: solid red;
+    margin: 20px;
+    
+    
+    
+    }
+    
+    .formulario{
+
+        width: 215px;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+      text-align: center;   
+      
+
+
+
+
+
+    }
+    
+    
+    
+    
+    
+    
+    
+    button{
+    
+    color: red;
+    border: solid red;
+    background-color: black;
+    width:200px;
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    button:hover{
+
+ 
+        color: rgb(17, 237, 17);
+        border: solid rgb(17, 237, 17);
+        background-color: green;
+
+
+
+    }
