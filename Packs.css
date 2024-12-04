@@ -1,0 +1,73 @@
+body{
+    background-image: url(imagenes/toro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    
+
+}
+
+
+
+h1{
+    color: rgb(255, 255, 255);
+    border:solid red;
+    text-align: center;
+    background-image: url(imagenes/logo.jpg);
+    background-position: center;
+    padding: 5px;
+    
+
+}
+
+.bloque2{
+    border: solid rgb(244, 35, 16);
+    color: white;
+    background-image: url(imagenes/);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    margin: 5px;
+ 
+    
+
+}
+
+.Bloque{
+
+display: flex;
+
+
+}
+
+.imagenes2{
+
+width: 300px;
+height: 225px;
+border: solid rgb(241, 241, 241);
+ 
+}
+
+
+
+.bloque2:hover{
+
+border: solid greenyellow;
+
+
+}
+
+.imagenes2:hover{
+
+border: solid greenyellow;
+width: 350px;
+height: 230px;
+
+
+}
+    
+
+
+
+

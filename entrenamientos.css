@@ -1,14 +1,106 @@
 h1{
-
     color: rgb(255, 255, 255);
     border:solid red;
     text-align: center;
     background-image: url(imagenes/logo.jpg);
     background-position: center;
     padding: 5px;
+
 }
 
 
+
+.imagen{
+height: 200px;
+width: 250px;
+background-color: red;
+background-image: url(imagenes/entrenamiento_funcional.width-640.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+border: solid white;
+margin: 5px;
+}
+
+.texto{
+height: 50px;
+width: 450px;
+
+
+
+
+
+}
+
+.FUNCIONAL{
+
+display: flex;
+
+
+}
+
+.imagen3{
+
+    height: 200px;
+    width: 250px;
+    background-color: red;
+    background-image: url(imagenes/calistenia.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid white;
+    margin: 5px;
+}
+
+.imagen2{
+
+    
+    height: 200px;
+    width: 250px;
+    background-color: red;
+    background-image: url(imagenes/entrenar-con-barra_1597048825.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid white;
+    margin: 5px;
+}
+    
+h2{
+
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    width: 180px;
+
+
+}
+
+
+.texto{
+color: rgb(31, 255, 6);
+width: 800px;
+height: 200px;
+
+
+
+
+}
+
+.texto2{
+    color: rgb(17, 231, 49);
+    width: 800px;
+    height: 200px;
+  
+
+}
+
+.texto3{
+    color: rgb(20, 236, 23);
+    width: 800px;
+    height: 200px;
+   
+}
 
 body{
 
@@ -16,51 +108,27 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10px;
+    
 }
 
-img{
+p{
 
-width: 300px;
-height: 300px;
-border: solid white;
-margin: 10px;
-float: left;
+color: rgb(255, 255, 255);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;
+text-align: center;
 
-}
-
-
-.bloque1{
-
-color: white;
-
-
-
-}
-
-.bloque2{
-
-color: white;
-
-
-
-}
-
-.bloque3{
-
-color: white;
 
 
 }
 
 
 
-a{
-
-    color: aqua;
-    text-decoration: none;
-    border: solid rgb(6, 230, 255);
-    padding: 5px;
 
 
 
-}
+
+
+
+
+
