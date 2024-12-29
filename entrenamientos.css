@@ -117,13 +117,40 @@ color: rgb(255, 255, 255);
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-size: large;
 text-align: center;
-
+background: rgba(5, 7, 12, 0.80);
 
 
 }
 
 
+h4{
 
+    color: rgb(255, 255, 255);
+    border: solid red;
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+    background-image: url(imagenes/logo\ 2.jpg);
+
+
+    
+}
+
+a{
+
+    color: rgb(255, 255, 255);
+    border: solid red;
+    width: 150px;
+    padding: 10px;
+    margin: 15px;
+    text-decoration: none;
+    background-image: url(imagenes/logo\ 2.jpg);
+    
+
+
+
+}
 
 
 
